@@ -130,5 +130,6 @@ dmypy.json
 
 # kaggle data
 input
+data
 
 .DS_Store
